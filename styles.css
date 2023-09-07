@@ -100,7 +100,7 @@ h3 {
 .recipe-info h5 {
     font-size: 16px;
     font-weight: 700;
-    line-height: 4px;
+    line-height: 8px;
     letter-spacing: 0.0015em;
     color: rgba(42, 42, 42, 1);
     margin: 4% 0;
@@ -156,7 +156,7 @@ article {
 .users-testimonial-profile-info h5 {
     font-size: 16px;
     font-weight: 700;
-    line-height: 4px;
+    line-height: 10px;
     letter-spacing: 0.0015em;
     color: rgba(42, 42, 42, 1);
     margin: 10% 0;
@@ -253,10 +253,15 @@ article {
 
     .recipe-info h5 {
         font-size: 8px;
+        line-height: 10px;
     }
 
     .ratings p {
         font-size: 7px;
+    }
+
+    .users-testimonial-profile {
+        width: 32%;
     }
 
     .users-testimonial-profile-img {
